@@ -1,6 +1,7 @@
 Linux:  52.173.26.117 Maquina3 10.0.1.4
-LInux : maquina4  10.0.2.4
-
+LInux : maquina4  10.0.2.4 Linux maquina4 4.4.0-111-generic #134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018 x86_64 x86_64       
+                            x86_64 GNU/Linux
+    
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
