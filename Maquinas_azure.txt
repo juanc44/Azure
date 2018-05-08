@@ -1,5 +1,5 @@
 Linux:  52.173.26.117 Maquina3 10.0.1.4
-
+LInux : maquina4  10.0.2.4
 
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
