@@ -8,4 +8,4 @@ Para Linx instalar/actualizar $sudo yum update -y
 
 
 Win1: Maquina6
-Linx3: Maquina7
+Linx3:  maquina7    10.0.5.4
