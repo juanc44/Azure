@@ -6,5 +6,6 @@ LInux 2: maquina4  10.0.2.4 Linux maquina4 4.4.0-111-generic #134~14.04.1-Ubuntu
 Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
 
-Linx3: 
-Win1: 
+
+Win1: Maquina6
+Linx3: Maquina7
