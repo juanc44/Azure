@@ -7,5 +7,5 @@ Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
 
 
-Win1: Maquina6
+Win1: Maquina6  40.114.39.125 
 Linx3:  maquina7    10.0.5.4
